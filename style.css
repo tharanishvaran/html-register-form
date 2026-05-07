@@ -1,0 +1,30 @@
+*{
+    background-color: #e0f7fa; /* light aqua */
+}
+td{
+    padding: 25px;
+}
+table{
+    margin:auto;
+}
+
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    text-align: center;
+    color: cornflowerblue;
+}
+.submit{
+    background-color: green;
+    color: white;
+}
+.reset{
+    background-color: red;
+    color: white;
+}
+.img{
+    display: block;
+    margin: auto;
+    border-radius: 50px;
+}
